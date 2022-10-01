@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: black;
+}
+h1,p,h3,li {
+  color: white;
+}
